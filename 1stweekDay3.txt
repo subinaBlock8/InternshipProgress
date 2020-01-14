@@ -1,0 +1,4 @@
+Understood sdlc model
+Read about what is error,defect,bug,failure?
+Links:https://www.youtube.com/watch?v=53braDId-RQ
+

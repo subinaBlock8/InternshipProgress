@@ -1,0 +1,18 @@
+13th January- Attended Session by Nitish Sir(Topic-Software Development life cycle and Software testing)
+              Attended Session by Navneet Gulati Sir(Topic-Basic introduction to Typescript)
+              Continued with TypeScript(did some practise on data types and implemented them.)
+              
+14th January-Started with basic introduction to Java.
+             Made Programs on data types,patterns and simple programs.
+
+15th January-Continued doing java n created programs on Array's(Linear Search,Sorting-Insertion,Selection Sort).
+             Also read about defect clustering and pesticide paradox.
+
+16th January-Studied about static testing and dynamic testing.
+             Attended Session by Pallabi Mam(Topic-Different Techniques used in Testing)
+             Attented Session by Rishab and Anmol(Topic-Static Testing)
+             Attended Session by Lovepreet Sir(Topic-Backend Training)
+
+17th January-Saw an introduction video on Burp Suite(like how to set proxy).
+             Did questions on test cases.
+             Attended Session by Ishann and Neeraj Sir(Topic-Blockchain+Ethereum) 

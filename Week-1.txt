@@ -1,0 +1,23 @@
+6th January-First Day of Office!
+            Got familiar with the Office Culture.
+            
+7th January-Introduction to software testing
+            Importance of testing.
+            Had some overview about testing and studied from various websites(Javatpoint,GUru99).
+            Attended Gurvinder Sir's Session on Agile Methodology.
+
+8th January-Read about SDLC Model.
+            What is verification and validation.
+            Read about what is error,defect,bug,failure?
+            Links:https://www.youtube.com/watch?v=53braDId-RQ
+
+
+9th January-What is Manual Testing?
+            How to perform Manual Testing?
+            Types of Manual Testing.
+            Advantages/Disadvantages on Manual Testing.
+           
+10th January-Started a Course on TypeScript
+            Learnt Difference about TypeScript vs JavaScript.
+            Created PPT on Manual Testing.
+            

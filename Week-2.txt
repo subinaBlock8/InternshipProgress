@@ -1,5 +1,6 @@
 13th January- Attended Session by Nitish Sir(Topic-Software Development life cycle and Software testing)
-              Attended Session by Navneet Gulati Sir(Topic-Basic introduction to Typescript)
+              Attended Session by Navneet Gulati Sir(Topic-Basic introduction to Typescript.
+              Gave PPT on Manual Testing.
               Continued with TypeScript(did some practise on data types and implemented them.)
               
 14th January-Started with basic introduction to Java.

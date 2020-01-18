@@ -1,4 +1,0 @@
-Introduction to software testing
-Importance of testing.
-Had some overview about testing.
-studied from various websites.

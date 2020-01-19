@@ -1,10 +1,11 @@
 13th January- Attended Session by Nitish Sir(Topic-Software Development life cycle and Software testing)
-              Attended Session by Navneet Gulati Sir(Topic-Basic introduction to Typescript.
+              Attended Session by Navneet Gulati Sir(Topic-Basic introduction to Typescript.)
               Gave PPT on Manual Testing.
               Continued with TypeScript(did some practise on data types and implemented them.)
               
 14th January-Started with basic introduction to Java.
              Made Programs on data types,patterns and simple programs.
+             Attend presentation by Akshay on node js architecture
 
 15th January-Continued doing java n created programs on Array's(Linear Search,Sorting-Insertion,Selection Sort).
              Also read about defect clustering and pesticide paradox.

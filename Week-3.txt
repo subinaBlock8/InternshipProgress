@@ -1,1 +1,5 @@
-
+20th January-Introduction to Promises and callback functions
+             Attended PPT on Promises and callback functions by Ravi.
+             Read about inspect elements.
+             Attended Session on Private Blockchain by Utkarsh Bisht
+             

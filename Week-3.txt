@@ -2,4 +2,14 @@
              Attended PPT on Promises and callback functions by Ravi.
              Read about inspect elements.
              Attended Session on Private Blockchain by Utkarsh Bisht
+21st January-
+22nd January-
+23 January-Attended seesion on devops.
+           Collected and gathered stuff for PPT.
+           
+24th January-Gave PPT on SDLC Models.
+             Read about 2nd chapter test levels
+             Created test cases on Ravi's Project.
+             
+             
              

@@ -8,5 +8,6 @@ we will see a bunch of code which is in HTML,CSS,JAVASCRIPT.
                     i'll go on the inspect element and then go to to div andwill find the server link 
                     of the the image and by copy it and open itin another tab then you will get an option
                     to download it.
-
+LINKS:
 https://www.youtube.com/watch?v=vi1mUy-nXFo
+https://www.youtube.com/watch?v=0xphAgbG-U0

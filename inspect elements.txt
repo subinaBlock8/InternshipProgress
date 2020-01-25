@@ -1,0 +1,12 @@
+INSPECT ELEMENTS:
+Suppose we open a facebook page and we saw some images on it and if we right click and go on the inspect 
+we will see a bunch of code which is in HTML,CSS,JAVASCRIPT. 
+(SO we can say it is a tool that leads the user interact with the code)
+
+
+1.Download Anything:For Eg.I go to the fb and i want to download the cover image of any random person
+                    i'll go on the inspect element and then go to to div andwill find the server link 
+                    of the the image and by copy it and open itin another tab then you will get an option
+                    to download it.
+
+https://www.youtube.com/watch?v=vi1mUy-nXFo

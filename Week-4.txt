@@ -1,0 +1,3 @@
+27th January-Studied chapter-2 which included software development life cycle,testing types,testing levels and maintenance testing.
+             Discussed the requirements with ravi and made test cases on them.
+             

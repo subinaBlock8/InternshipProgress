@@ -1,3 +1,12 @@
 27th January-Studied chapter-2 which included software development life cycle,testing types,testing levels and maintenance testing.
              Discussed the requirements with ravi and made test cases on them.
              
+28th January-Studied about testing principles from ISTQB.
+             Discussion on the test cases with deepak varna Sir and mridula Ma'am.
+             Attended PPT on Routing in react by sahil.
+             Did activity given by varna sir.
+             
+             
+             
+             
+             

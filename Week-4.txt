@@ -6,7 +6,19 @@
              Attended PPT on Routing in react by sahil.
              Did activity given by varna sir.
              
+29th January-Read 1st chapter from ISTQB(Fundamentals of Testing).
+             Made test scenarios and test cases for pallabi's mam task 
+
+30th January-Continued reading fundamentals of testing.
+             Made use case template on vocabulary application. 
+             Attented PPt on smart contracts by navdeep and sidharth.
+
+31st January-Completed all the assignments.
+             Attended session on Ux/Utility testing by ankita mam.
              
              
              
              
+             
+
+

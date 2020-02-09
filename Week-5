@@ -16,6 +16,6 @@
 
 7th Feb-Continued with the course and started with the Locator techniques and tools.
        Read about the importance of locator identifiers in selenium.
-       Practiced how to identify id,name,class with tools.
+       Practiced how to identify locators(id,name,class) with tools.
        Implemented how to generate X-path in chrome,firefox browser.
 
